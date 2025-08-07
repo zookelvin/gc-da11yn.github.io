@@ -1,6 +1,23 @@
 ---
 title: Contact us
 description: Interested in learning more? Reach out and get connected to our team.
+
+role:
+  - Analysis Role Group
+  - Author Role Group
+  - Designer Role Group
+  - Development Role Group
+  - Testing Role Group
+  - Administration Role Group
+
+role:
+  - analysis
+  - author
+  - designer
+  - development
+  - testing
+  - administration
+
 toggle: contactez-nous
 tags:
   - aboutUs

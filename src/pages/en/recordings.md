@@ -1,6 +1,17 @@
 ---
 title: Recordings
 description: Recordings typically fall into one of two categories, an in-person facilitated event (Standard Video) or an audio-only presentation. Here is a definition of each type and their respective accessibility requirements.
+
+role:
+  - Author Role Group
+  - Development Role Group
+  - Testing Role Group
+
+role:
+  - author
+  - front end development
+  - testing
+  
 toggle: enregistrements
 subject:
   - howTos

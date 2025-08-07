@@ -1,6 +1,23 @@
 ---
 title: Do’s and Don’ts for developing online courses
 description: Do’s and don’ts for writing, designing and developing online courses.
+
+role:
+  - Author Role Group
+  - Designer Role Group
+  - Testing Role Group
+  - Administration Role Group
+  - Development Role Group
+
+role:
+  - author
+  - designer
+  - development
+  - testing
+  - project management
+  - project ownership
+
+  
 toggle: a-faire-et-a-ne-pas-faire-pour-developper-des-cours-en-ligne
 subject:
   - howTos

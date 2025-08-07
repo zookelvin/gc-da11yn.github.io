@@ -1,6 +1,18 @@
 ---
 title: Captioning Checklist
 description: Making sure you did not forget anything with your captions.
+
+role:
+  - Author Role Group
+  - Development Role Group
+  - Testing Role Group
+
+role:
+  - content authoring
+  - front end development
+  - testing
+
+
 subject:
   - howTos
 toggle: liste-de-controle-pour-le-sous-titrage

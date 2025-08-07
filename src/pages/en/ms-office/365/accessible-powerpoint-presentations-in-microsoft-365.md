@@ -1,6 +1,24 @@
 ---
 title: Accessible PowerPoint presentations in Microsoft 365
 description: Accessible practices for Microsoft PowerPoint document creation.
+
+role:
+  - Analysis Role Group
+  - Author Role Group
+  - Designer Role Group
+  - Development Role Group
+  - Testing Role Group
+  - Administration Role Group
+
+role:
+  - analysis
+  - author
+  - designer
+  - development
+  - testing
+  - administration
+
+  
 toggle: presentations-powerpoint-accessibles-dans-microsoft-365
 fontIcon: fa-file-powerpoint
 ---

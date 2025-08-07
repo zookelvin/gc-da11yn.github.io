@@ -1,6 +1,17 @@
 ---
 title: Transcript Checklist
 description: A tool to make sure you did not forget anything.
+
+role:
+  - Author Role Group
+  - Development Role Group
+  - Testing Role Group
+
+role:
+  - author
+  - front end development
+  - testing
+
 toggle: liste-de-controle-des-transcriptions
 subject:
   - howTos

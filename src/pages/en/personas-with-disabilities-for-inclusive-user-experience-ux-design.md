@@ -1,6 +1,23 @@
 ---
 title: Personas with Disabilities for inclusive user experience (<abbr>UX</abbr>) design
 description: The case to include disabilities into user personas, the types of technologies they use, and sample personas with disabilities.
+
+role:
+  - Analysis Role Group
+  - Author Role Group
+  - Designer Role Group
+  - Testing Role Group
+  - Administration Role Group
+  - Development Role Group
+
+role:
+  - analysis
+  - author
+  - designer
+  - development
+  - testing
+  - project management
+
 subject:
   - howTos
 tags:

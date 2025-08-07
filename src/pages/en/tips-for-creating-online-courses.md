@@ -1,6 +1,23 @@
 ---
 title: Tips for creating online courses
 description: Tips and tricks for writing, designing and developing online courses.
+
+role:
+  - Author Role Group
+  - Designer Role Group
+  - Testing Role Group
+  - Administration Role Group
+  - Development Role Group
+
+role:
+  - author
+  - designer
+  - development
+  - testing
+  - project management
+  - project ownership
+
+
 toggle: conseils-pour-la-conception-de-cours-en-ligne
 subject:
   - howTos

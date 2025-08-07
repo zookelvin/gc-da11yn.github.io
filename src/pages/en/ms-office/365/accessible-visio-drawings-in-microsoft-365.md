@@ -1,6 +1,24 @@
 ---
 title: Accessible Visio drawings in Microsoft 365
 description: Accessible practices for Microsoft Visio diagram creation.
+
+role:
+  - Analysis Role Group
+  - Author Role Group
+  - Designer Role Group
+  - Development Role Group
+  - Testing Role Group
+  - Administration Role Group
+
+role:
+  - analysis
+  - author
+  - designer
+  - development
+  - testing
+  - administration
+
+  
 toggle: dessins-visio-accessibles-dans-microsoft-365
 fontIcon: fa-project-diagram
 ---

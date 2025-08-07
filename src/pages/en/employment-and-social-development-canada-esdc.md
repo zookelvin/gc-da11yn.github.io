@@ -1,6 +1,23 @@
 ---
 title: Employment and Social Development Canada (<abbr>ESDC</abbr>)
 description: Employment and Social Development Canada (<abbr>ESDC</abbr>) works to improve the standard of living and quality of life for all Canadians. We do this by promoting a labour force that is highly skilled. We also promote an efficient and inclusive labour market. ESDC has multiple teams working in digital accessibility with the goal of creating a barrier free environment for Canadians and employees!
+
+role:
+  - Analysis Role Group
+  - Author Role Group
+  - Designer Role Group
+  - Development Role Group
+  - Testing Role Group
+  - Administration Role Group
+
+role:
+  - analysis
+  - author
+  - designer
+  - development
+  - testing
+  - administration
+  
 toggle: emploi-et-developpement-social-canada-edsc
 subject:
   - accessibilityInTheGovernmentOfCanada

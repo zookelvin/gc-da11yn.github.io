@@ -1,6 +1,23 @@
 ---
 title: Terms of Reference
 description: Terms of Reference define the purpose and scope of the Digital Accessibility Toolkit project. It includes information regarding the structures of a project, key roles, membership, meeting, and more.
+
+role:
+  - Analysis Role Group
+  - Author Role Group
+  - Designer Role Group
+  - Development Role Group
+  - Testing Role Group
+  - Administration Role Group
+
+role:
+  - analysis
+  - author
+  - designer
+  - development
+  - testing
+  - administration
+  
 toggle: mandats
 tags:
   - aboutUs

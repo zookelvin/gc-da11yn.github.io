@@ -1,6 +1,23 @@
 ---
 title: Statistics Canada (<abbr>StatCan</abbr>)
 description: Statistics Canada, in collaboration with partners from Employment and Social Development Canada, will continue to develop and release products to better understand the accessibility experiences of Canadians. The <a href="https://www.statcan.gc.ca/en/topics-start/accessibility">Accessibility Data Hub</a> provides a centralized location of topics related to accessibility and disability through data tables, articles, infographics and interactive data visualization tools.
+
+role:
+  - Analysis Role Group
+  - Author Role Group
+  - Designer Role Group
+  - Development Role Group
+  - Testing Role Group
+  - Administration Role Group
+
+role:
+  - analysis
+  - author
+  - designer
+  - development
+  - testing
+  - administration
+  
 toggle: statistique-canada-statcan
 subject:
   - accessibilityInTheGovernmentOfCanada

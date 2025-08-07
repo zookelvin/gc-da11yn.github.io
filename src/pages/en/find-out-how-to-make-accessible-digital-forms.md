@@ -1,6 +1,19 @@
 ---
 title: Find out how to make accessible digital forms
 description: With this guide, find out what the best format is and other helpful tips for making accessible digital forms.
+
+role:
+  - Author Role Group
+  - Designer Role Group
+  - Development Role Group
+  - Testing Role Group
+
+role:
+  - author
+  - designer
+  - development
+  - testing
+
 subject:
   - howTos
 tags:

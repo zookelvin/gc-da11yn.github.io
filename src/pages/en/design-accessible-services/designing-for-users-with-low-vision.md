@@ -1,6 +1,23 @@
 ---
 title: Designing for users with low vision
 description: What to do - and what <strong>not</strong> to do - when designing for users with low vision.
+
+role:
+  - Analysis Role Group
+  - Author Role Group
+  - Designer Role Group
+  - Development Role Group
+  - Testing Role Group
+  - Administration Role Group
+
+role:
+  - analysis
+  - author
+  - designer
+  - development
+  - testing
+  - administration
+
 tags:
   - designingAccessible
 toggle: concevoir-pour-les-utilisateurs-malvoyants

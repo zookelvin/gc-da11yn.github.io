@@ -1,0 +1,29 @@
+---
+title: Accessibility for Analysts
+description: Accessibility tips and resources for analysis roles.
+tags:
+  - role
+role:
+  - analysis
+---
+
+<h1>Accessibility for Analysts</h1>
+<p>Analysts play a key role in identifying accessibility requirements and ensuring they are considered throughout projects.</p>
+
+<h2>How Analysts Support Accessibility</h2>
+<ul>
+  <li>Include accessibility requirements in project documentation and user stories.</li>
+  <li>Consult with users with disabilities during research and requirements gathering.</li>
+  <li>Review standards, policies, and regulations for accessibility (e.g., WCAG, government standards).</li>
+  <li>Collaborate with designers, developers, and testers to ensure accessibility is addressed at every stage.</li>
+  <li>Advocate for accessibility in meetings and project planning.</li>
+</ul>
+
+<h2>Resources</h2>
+<ul>
+  <li><a href="/en/how-tos/">Accessibility How-Tos</a></li>
+  <li><a href="https://www.w3.org/WAI/">W3C Accessibility Resources</a></li>
+  <li><a href="https://a11y.canada.ca/">A11Y Canada</a></li>
+</ul>
+
+<a href="/en/roles/accessibility-in-your-role/">&#8592; Back to Accessibility in Your Role</a>

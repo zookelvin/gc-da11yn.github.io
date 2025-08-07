@@ -1,6 +1,23 @@
 ---
 title: Digital Accessibility Toolkit project
 description: About the project, who we are and what is our goal.
+
+role:
+  - Analysis Role Group
+  - Author Role Group
+  - Designer Role Group
+  - Development Role Group
+  - Testing Role Group
+  - Administration Role Group
+
+role:
+  - analysis
+  - author
+  - designer
+  - development
+  - testing
+  - administration
+  
 toggle: projet-de-la-boite-a-outils-de-laccessibilite-numerique
 tags:
   - aboutUs

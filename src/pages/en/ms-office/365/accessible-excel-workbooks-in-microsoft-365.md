@@ -1,6 +1,24 @@
 ---
 title: Accessible Excel workbooks in Microsoft 365
 description: Accessible practices for Microsoft Excel document creation.
+
+role:
+  - Analysis Role Group
+  - Author Role Group
+  - Designer Role Group
+  - Development Role Group
+  - Testing Role Group
+  - Administration Role Group
+
+role:
+  - analysis
+  - author
+  - designer
+  - development
+  - testing
+  - administration
+
+  
 toggle: classeurs-excel-accessibles-dans-microsoft-365
 fontIcon: fa-file-excel
 ---

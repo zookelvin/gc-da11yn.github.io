@@ -1,6 +1,24 @@
 ---
 title: PDF accessibility checklist
 description: Here you can find different questions to help you to know if your pdf document is accessible or not.
+
+role:
+  - Analysis Role Group
+  - Author Role Group
+  - Designer Role Group
+  - Development Role Group
+  - Testing Role Group
+  - Administration Role Group
+
+role:
+  - analysis
+  - author
+  - designer
+  - development
+  - testing
+  - administration
+
+  
 internalLinks: true
 toggle: liste-de-verification-de-laccessibilite-des-documents-pdf
 subject:

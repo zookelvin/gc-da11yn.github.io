@@ -1,0 +1,29 @@
+---
+title: Accessibility for Authors
+description: Accessibility tips and resources for authors and content creators.
+tags:
+  - role
+role:
+  - author
+---
+
+<h1>Accessibility for Authors</h1>
+<p>Authors and content creators are essential to making information accessible to everyone. Your writing and formatting choices can help all users understand and engage with your content.</p>
+
+<h2>How Authors Support Accessibility</h2>
+<ul>
+  <li>Use clear, simple language and avoid jargon.</li>
+  <li>Structure content with headings, lists, and short paragraphs.</li>
+  <li>Provide descriptive text for links and images (alt text).</li>
+  <li>Ensure documents and web pages are readable by screen readers.</li>
+  <li>Use accessible document formats (e.g., tagged PDFs, semantic HTML).</li>
+</ul>
+
+<h2>Resources</h2>
+<ul>
+  <li><a href="/en/how-tos/">Accessibility How-Tos</a></li>
+  <li><a href="https://www.w3.org/WAI/">W3C Accessibility Resources</a></li>
+  <li><a href="https://a11y.canada.ca/">A11Y Canada</a></li>
+</ul>
+
+<a href="/en/roles/accessibility-in-your-role/">&#8592; Back to Accessibility in Your Role</a>

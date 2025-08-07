@@ -1,6 +1,17 @@
 ---
 title: Transcript Guidelines
 description: Guidelines on how to incorporate various aspects of audio and video into a transcript.
+
+role:
+  - Author Role Group
+  - Development Role Group
+  - Testing Role Group
+
+role:
+  - author
+  - front end development
+  - testing
+  
 toggle: directives-pour-la-transcription
 subject:
   - howTos

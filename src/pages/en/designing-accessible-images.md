@@ -1,6 +1,20 @@
 ---
 title: Designing accessible images
 description: With this diagram, you will learn how to make the best choice for designing accessible images.
+
+
+role:
+  - Author Role Group
+  - Designer Role Group
+  - Development Role Group
+  - Testing Role Group
+
+role:
+  - author
+  - designer
+  - front end development
+  - testing
+
 toggle: concevoir-des-images-accessibles
 ---
 

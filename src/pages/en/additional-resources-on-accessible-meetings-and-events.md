@@ -1,6 +1,18 @@
 ---
 title: Additional resources on accessible meetings and events
 description: For more information on accessible meetings and events, you can consult this list of links.
+
+role:
+  - Author Role Group
+  - Designer Role Group
+  - Administration Role Group
+
+role:
+  - author
+  - ux design
+  - administration
+
+
 internalLinks: true
 toggle: ressources-additionnelles-sur-les-reunions-et-evenements-accessibles
 ---

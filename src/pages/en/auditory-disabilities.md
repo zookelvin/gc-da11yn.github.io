@@ -7,6 +7,22 @@ tags:
   - aboutDisabilities
 audience:
   - Everyone
+role:
+  - Analysis Role Group
+  - Author Role Group
+  - Designer Role Group
+  - Development Role Group
+  - Testing Role Group
+  - Administration Role Group
+
+role:
+  - analysis
+  - author
+  - designer
+  - development
+  - testing
+  - administration
+  
 toggle: deficiences-auditives
 ---
 

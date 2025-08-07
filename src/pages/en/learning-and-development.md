@@ -1,6 +1,23 @@
 ---
 title: Learning and Development
 description: Discover a curated collection of learning products to enhance your understanding of accessibility. Whether you're a developer, designer, or enthusiast, explore our links to courses, tutorials, and tools. Join us in creating a more inclusive digital world.
+
+role:
+  - Analysis Role Group
+  - Author Role Group
+  - Designer Role Group
+  - Development Role Group
+  - Testing Role Group
+  - Administration Role Group
+
+role:
+  - analysis
+  - author
+  - designer
+  - development
+  - testing
+  - administration
+  
 toggle: apprentissage-et-perfectionnement
 internalLinks: true
 tags:

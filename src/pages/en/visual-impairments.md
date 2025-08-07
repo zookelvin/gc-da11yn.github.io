@@ -1,6 +1,23 @@
 ---
 title: Visual Impairments
 description: Visual disabilities are sensory disabilities that can range from some amount of vision loss, loss of visual acuity, or increased or decreased sensitivity to specific or bright colours, to complete or uncorrectable loss of vision in either or both eyes.
+
+role:
+  - Analysis Role Group
+  - Author Role Group
+  - Designer Role Group
+  - Development Role Group
+  - Testing Role Group
+  - Administration Role Group
+
+role:
+  - analysis
+  - author
+  - designer
+  - development
+  - testing
+  - administration
+
 subject:
   - accessibilityFundamentals
 tags:
